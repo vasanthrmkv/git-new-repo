@@ -1,0 +1,243 @@
+21-March-2022:
+GIT - Source code management tool - Open-Source - C
+---------------------------------------------------
+-> Linux - Kernel - GIT
+-> Advanced Features - Software 
+-> 80%
+
+-> AWS - Amazon Web Services -> SSSDAN -> AWS-52% // AZURE -22%//
+PAY-AS-YOU-GO
+-> Devops - CI and CD Pipeline
+
+
+Practical:
+AWS Infrastructure - EC2 - Amazon Linux 
+GIT - INSTALLATION
+GIT - Configuration
+
+Local system + source code + ec2 - upload - versioning 
+
+Roles: Developer , AWS Solution Architect, GIT-admin, Devops-Engineer, Consultant
+
+
+Developer: Local System
+Eclipse
+VSC
+
+Java, .net, python, node.js, php, angular, c, c++, cobol, fortan
+
+VSC + Java => Mohan
+Project: Loanproject
+Microservice: Loanbooking
+ProgramName: Loanbookingsessionbean.java
+
+==> Unit test + Validation - finalize
+
+AWS Solution Architect:
+6 engs - functionality - Experts - 
+AWS EC2 AMAZON LINUX - SERVER + STORAGE + NETWORK + SECURITY + ORACLE + APP
+
+
+Developer:
+Loanbookingsessionbean.java
+winscp - SFTP - 22
+access permission - default user  - git-admin
+fs path (rwx) : /home/ec2-user - git-admin
+
+Github account open
+
+
+GIT-admin: - infra team
+Server Login and uploading the program from local to remote 
+Project Manager: Govindasamy 
+
+150 Devs
+Git Configuration:
+single git-server = multi-devs => Public
+Single - 1 Mohan - Private
+Working Directory - each developers
+
+git installation 
+
+
+
+Devops-Engineer, Consultant
+Working Directory 
+Local Repository
+Remote repository
+
+
+
+
+
+
+
+1. Facebook - DL
+2. Stages - CD, CDVCS, CT, CI, CD, CM etc etc 
+3. CVCS - Local / Centralized / Distributed
+4. 2005 - Linus Torvalds - Git - Java - "C"
+5. CVCS vs DVCS 
+6. ALL OS, ALL SCM
+7. WD, SA, LR, RR
+8. GIT GITHUB 
+9. VSC + JAVA + AWS SOLUTION ARC EC2 + GIT INS+ GIT CONF + WINSCP
++ /home/ec2-user
+10. git init
+11. mkdir
+12. wd - sa : git add
+13. sa - lr : commit
+14. master - after first commit 
+15. Varaible , User name: and Password:
+
+Agenda:
+-------
+1. AWS - infras && DEVOPS - CI and CD pipeline {groovy script}
+   Objective: faster s/w delivery
+   7.5 - 25LPA
+   4  - 15LPA + 50K Joining bonus
+   1.8 - 11LPA
+
+2. SDLC - Waterfall, Agile {50% automation + 50% manual} and Devops (CTD)
+
+3. Periodic table - 
+
+4. Case Study : Dark Launching - "Single user base CTD"
+
+5. Stages of Devops
+   Continuous Automation and configuration - IaaC - Teraform + aws = hasicorp
+   Continuous Configuration management - Ansible / salt
+   Continuous Development - eclipse
+   Continuous Source code management - GIT 
+   Continuous Integration - JNEKINS - plug-ins
+    ->Continuous QA
+    ->Continuous Compilation 
+    ->Continuous Build
+    ->Continuous Implementation - Test - sign off => Unit Test     
+    ->Continuous Test {QA + Source code validation}
+    ->CI test - UAT -{GUI, Functional, CLI, API}
+   Continuous Deployment / Delivery  - Docker / Kubernetis
+   Continuous Monitoring tool- splunk / appdb / Prometheus 
+
+
+6. Git Architecture
+Local server:
+Mohan-Java framework-writteoffentitybean.java - eclipse - compile - Test - Unit test
+
+Git Server (Ec2 - Remote server): 
+mohandir
+writteoffentitybean.java
+
+kaviyadir
+loandirbusalsessionbean.java
+
+Local Server to remote server file upload / download - "winscp" - SFTP - "ssh"  -22
+
+
+Local repository - Master / feature branch 
+
+
+
+Remote Repository: master to github 
+
+Agenda:
+Aws - Amazon Web Services - IaaS, PaaS and SaaS   - Infras
+aim of IT co - reduce the cost, Fastest delivery - cloud-premises - 75%
+Client requirement - Plan - Design(infras) - dev - test - release - app - end user
+
+Devops - 
+Dev - coding - GIT - JENKINS CI - CD => CI CD PIPELINE PROCESS
+
+SDLC -  
+
+Stages of project management:
+Continuous dev
+cont source code management
+ci
+cd
+...
+
+
+Case Study: Dark Launching - Facebook - 2009 to 2011 - single user base test and deploy
+
+Devops Stages:
+Continuous Development
+Continuous Source Code management
+Continuous Integration 
+  -  Build 
+  -  Testing
+  -  Deploy
+Continuous Monitoring
+Continous Deployment
+
+
+Source Code management:
+-----------------------
+Traditional method challenge - No backup and Recovery
+VCS - High level of backup and recovery
+Types - Local, Cenntralized and Distributed
+GIT-DVCS
+CVCS VS DVCS
+.exe
+        
+
+GIT Architecture:
+-----------------
+Developer Scope:
+Local server
+Dev + Unit Test + upload TO GIT; -> JENKINS -> 
+
+Push into remote server - ec2 server - need to install git 
+
+push from git to github
+
+
+practicle:
+Local server  - loanbookingsessionbean.java
+Remote Server - need to install git 
+
+
+GIT
+---
+IT companies Objective: Fastest software Delivery + Accuracy + Quality
+AWS - 120+ ; 44% - Market Sharing; Cost-Effective; 200+ Flexible services; 2 rs ac open; 750hrs free-tier eligible
+Essential of AWS: Infrastaructures
+Devops: CI and CD pipeline Automation
+Sdlc: Waterfall/Agile/Devops
+Devops - Case Study / Stages - FACEBOOK
+Devops Stages -
+CCM  - Ansible/salt
+CD   - 
+CSCM - git
+CM   - splunk/prometheus 
+CT   - Sel
+CI   - jenkins
+CD   - Docker 
+
+Source Code Management Tool: GIT
+--------------------------------
+Traditional Source Code management system - maintains the source code in local system - backup and recovery - very poor
+Version Control System- Records changes version wise, Rebuilt
+VCS Types - Local, Centralized and Distributed 
+Distributed VCS - GIT:
+2005, OSS, Free-tier, 80%
+CVCS / DVCS
+GIT Architecture:
+Developer(Mohan) Local Server: Loanbookingsessionbean.java
+Remote Server: Install GIT, WorkingDirectory-Loanbookingsessionbean.java, SA, LR- Master; Feature Branches-commitid
+Remote Repository: push; pull
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+      
